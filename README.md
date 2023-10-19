@@ -18,6 +18,10 @@ All Objectives are achieved in the following path.
 ## sc-2
 ![chargeMiles_10_19_2023_11_59_24](https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/50ca271d-e310-4194-a47f-b8f3fe111b6b)
 
+## sc-3
+![Screenshot (352)](https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/f740eb53-7181-4da3-9f73-4681da2830f2)
+
+
 # Recording Video Result
 
 https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/e12d7eb5-df63-42e4-94b6-f4e7e10719b9
