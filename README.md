@@ -12,10 +12,10 @@ All Objectives are achieved in the following path.
 
 # Screenshots
 ## sc-1
-![chargeMiles_10_19_2023_11_50_22](https://github.com/chetandsbhadane/GreenMiles-Assignment/assets/69416667/2f7f3dcd-76e3-41cd-a445-fba1427590e3)
+![chargeMiles_10_19_2023_11_50_22](https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/5cbd5aae-006e-4a80-973b-55880b6b819b)
 
 ## sc-2
-![chargeMiles_10_19_2023_11_59_24](https://github.com/chetandsbhadane/GreenMiles-Assignment/assets/69416667/cbb00a60-e6d4-4b4e-98ab-6ffb71638a32)
+![chargeMiles_10_19_2023_11_59_24](https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/50ca271d-e310-4194-a47f-b8f3fe111b6b)
 
 # Recording Video Result
 
