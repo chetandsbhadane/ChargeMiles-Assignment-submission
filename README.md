@@ -6,9 +6,9 @@
 
 # Result
 All Objectives are achieved in the following path.
-- Path - Framework/src/test/java/com/chargemiles/testcases/LoginTest.java
+- Path - src/test/java/com/chargemiles/testcases/LoginTest.java
                 OR
-- Link - https://github.com/chetandsbhadane/GreenMiles-Assignment/blob/main/Framework/src/test/java/com/chargemiles/testcases/LoginTest.java
+- Link - https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/blob/master/src/test/java/com/chargemiles/testcases/LoginTest.java
 
 # Screenshots
 ## sc-1
@@ -16,3 +16,8 @@ All Objectives are achieved in the following path.
 
 ## sc-2
 ![chargeMiles_10_19_2023_11_59_24](https://github.com/chetandsbhadane/GreenMiles-Assignment/assets/69416667/cbb00a60-e6d4-4b4e-98ab-6ffb71638a32)
+
+# Recording Video Result
+
+https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/e12d7eb5-df63-42e4-94b6-f4e7e10719b9
+
