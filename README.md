@@ -1,5 +1,5 @@
 # GreenMiles-Assignment
-I have made this assignment in loosely couple approach. It means ant changes happend then I have to change to only particular files without affecting on other code.
+I have made this assignment in loosely couple approach. It means any changes happend then I have to change to only particular files without affecting on other code.
 # Objectives
 - If the user is logged in or not.
 - If user is logged in, open the profile menu and click logout and continue with step 3
