@@ -22,7 +22,7 @@ All Objectives are achieved in the following path.
 ![Screenshot (352)](https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/f740eb53-7181-4da3-9f73-4681da2830f2)
 
 
-# Recording Video Result
+# Screen-Recording Video Result
 
 https://github.com/chetandsbhadane/ChargeMiles-Assignment-submission/assets/69416667/e12d7eb5-df63-42e4-94b6-f4e7e10719b9
 
